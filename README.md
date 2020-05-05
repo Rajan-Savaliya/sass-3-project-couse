@@ -1,4 +1,4 @@
-[visit here](https://rajan-savaliya.github.io/sass-3-project-couse/) the site
+[visit here](https://rajan-savaliya.github.io/sass-3-project-couse/){:target="_blank"}   the site
 
 ### code deploy to github
 
