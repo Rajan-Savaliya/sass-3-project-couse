@@ -1,3 +1,5 @@
+[visit here](https://rajan-savaliya.github.io/sass-3-project-couse/) the site
+
 ### code deploy to github
 
 > git push link-github-giveit master
@@ -9,4 +11,3 @@
 > git remote add origin git-link
 > git push origin master
 
-[visit here](https://rajan-savaliya.github.io/sass-3-project-couse/)
